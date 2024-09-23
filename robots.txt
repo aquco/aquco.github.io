@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aquco.github.io/OYP/sitemap.OYP.gz
